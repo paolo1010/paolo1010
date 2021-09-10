@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @paolo1010
 - 👀 I’m interested in Cloud Computing and DevOps
-- 🌱 I’m currently working on Implementing ECR in Jenkins Pipeline
-- 💞️ I’m looking to collaborate on DevOps projects
+- 💞️ I love to collaborate on DevOps projects
 - 📫 How to reach me ? @ ==> pamteck@gmail.com
