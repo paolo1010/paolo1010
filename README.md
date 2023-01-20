@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @paolo1010
-- 👀 I’m interested in Cloud Computing and DevOps
-- 💞️ I love to collaborate on DevOps projects
-- 📫 How to reach me ? @ ==> pamteck@gmail.com
+
